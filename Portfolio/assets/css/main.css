@@ -2082,6 +2082,10 @@ input, select, textarea {
 				opacity: 0;
 			}
 
+			figcaption {
+				color: white;
+			}
+
 /* Banner */
 
 	#banner {
