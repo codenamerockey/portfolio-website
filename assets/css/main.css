@@ -99,7 +99,7 @@ input, select, textarea {
 		-webkit-text-stroke: 0.25px;
 	}
 
-	#header {
+	.header1 {
 		
 		background: linear-gradient(rgba(255,0,0,0.2),
 		 rgba(0,0,0.1)), url('/images/fulls/cosmos-dark-evening-33825.jpg');
